@@ -1,0 +1,7 @@
+*.pyc
+00*_initial.py
+__pycache__
+.DS_Store
+demo
+*.sh
+.idea
